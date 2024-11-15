@@ -2,8 +2,8 @@
 ## [National Institute of Statistics Rwanda Hackathon 2024 Edition] (https://www.statistics.gov.rw/about-us/hackathon-2024-edition)
 ![Dashboard Overview] (https://github.com/ndikubwimana12/Byteconvas/tree/main)
 
-## A demo Video of Project
-(https://github.com/ndikubwimana12/Byteconvas/blob/main/Youth-unemployment.mp4)
+## A LINK TO PROJECT DASHBOARD (eric12.pythonanywhere.com)
+
 
 ## Home Page Image
 ![Home_Page Image](https://github.com/user-attachments/assets/994f4593-897a-4b2a-aefb-480bcb9cf4de)
