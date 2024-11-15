@@ -1,4 +1,4 @@
-# Hackathon Project: Statistical Dashboard
+# Hackathon Project: YOUTH UNEMPLOYMENT AGED 0-25 YEARS AND DATA SCIENCE SOLUTIONS (Statistical Dashboard)
 ## [National Institute of Statistics Rwanda Hackathon 2024 Edition] (https://www.statistics.gov.rw/about-us/hackathon-2024-edition)
 ![Dashboard Overview] (https://github.com/ndikubwimana12/Byteconvas/tree/main)
 ### Team Name: (Byteconvas)
@@ -16,7 +16,7 @@
 ### Project Description
 Our project is part of the [National Institute of Statistics Rwanda (NISR) Hackathon 2024 Edition] (https://www.statistics.gov.rw/about-us/hackathon-2024-edition), which invites university students to visualize statistical messages published by [NISR](https://www.statistics.gov.rw/) through an interactive dashboard, to foster statistical literacy and promote data-driven decision-making.
 
-Based on these objectives, Byteconvas whic is our team team has developed a dynamic and interactive dashboard using [Python](https://www.python.org/). This dashboard allows users to explore, analyze, and visualize statistical data provided by [NISR], to tacle the problem faced youth people aged 0-25 years and provide data science solutions to the problem. Through this project, we develop a platform that makes statistical data more accessible and understandable to a wider audience, thereby contributing to the increase of statistical literacy among the public.
+Based on these objectives, Byteconvas which is our team team has developed a dynamic and interactive dashboard using [Python](https://www.python.org/). This dashboard allows users to explore, analyze, and visualize statistical data provided by [NISR], to tacle the problem faced youth people aged 0-25 years and provide data science solutions to the problem. Through this project, we develop a platform that makes statistical data more accessible and understandable to a wider audience, thereby contributing to the increase of statistical literacy among the public.
 
 we blieve that the simply data representation of complex data by using our dashboard, it will reduce much time uded by people and increase the level of understanding the collected data, published by NISR. our hackathon project contains the technology, design and statistical data to create tool that encourages data exploration and education.
 
@@ -44,8 +44,9 @@ Once you have Python 3.10 or higher, you can proceed with the following installa
 
 ### Usage
 - **Run the dashboard**:
+- change your directory to the main directory and then type:
   ```bash
-  change your directory to the main directory and then type:
+  
     python app.py
   
 - **Open the dashboard**:
