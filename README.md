@@ -1,8 +1,8 @@
 # Hackathon Project: Statistical Dashboard
 ## [National Institute of Statistics Rwanda Hackathon 2024 Edition] (https://www.statistics.gov.rw/about-us/hackathon-2024-edition)
-![Dashboard Overview] 
-### Team Name: [Aksumite-Toumai](https://github.com/Aksumite-Toumai)
-### Institution: [African Institute for Mathematical Sciences (AIMS)](https://nexteinstein.org/)
+![Dashboard Overview] (https://github.com/ndikubwimana12/Byteconvas/tree/main)
+### Team Name: (Byteconvas)
+### Institution: RP Musanze College (https://www.iprcmusanze.rp.ac.rw/)
 
 ### Table of Contents
 1. [Project Description](#project-description)
@@ -14,11 +14,11 @@
 8. [Acknowledgements](#acknowledgements)
 
 ### Project Description
-Our project is part of the [National Institute of Statistics Rwanda (NISR) Hackathon 2023 Edition](https://www.statistics.gov.rw/about-us/hackathon-competition-2023-edition), which invites university students to visualize statistical messages published by [NISR](https://www.statistics.gov.rw/) through infographics and interactive dashboards. The overarching goal of this competition is to foster statistical literacy and promote data-driven decision-making.
+Our project is part of the [National Institute of Statistics Rwanda (NISR) Hackathon 2024 Edition] (https://www.statistics.gov.rw/about-us/hackathon-2024-edition), which invites university students to visualize statistical messages published by [NISR](https://www.statistics.gov.rw/) through an interactive dashboard, to foster statistical literacy and promote data-driven decision-making.
 
-In alignment with these objectives, our team has developed a dynamic and interactive dashboard using [Python](https://www.python.org/). This dashboard allows users to explore, analyze, and visualize statistical data provided by [NISR](https://www.statistics.gov.rw/) in an intuitive and user-friendly manner. Through this project, we aim to provide a platform that makes statistical data more accessible and understandable to a wider audience, thereby contributing to the increase of statistical literacy among the public.
+Based on these objectives, Byteconvas whic is our team team has developed a dynamic and interactive dashboard using [Python](https://www.python.org/). This dashboard allows users to explore, analyze, and visualize statistical data provided by [NISR], to tacle the problem faced youth people aged 0-25 years and provide data science solutions to the problem. Through this project, we develop a platform that makes statistical data more accessible and understandable to a wider audience, thereby contributing to the increase of statistical literacy among the public.
 
-We believe that by simplifying the representation of complex statistical data through our dashboard, we can provide valuable insights and promote a better understanding of the data published by [NISR](https://www.statistics.gov.rw/). Our project embodies the spirit of the hackathon by merging technology, design, and statistics to create a tool that encourages data exploration and education.
+we blieve that the simply data representation of complex data by using our dashboard, it will reduce much time uded by people and increase the level of understanding the collected data, published by NISR. our hackathon project contains the technology, design and statistical data to create tool that encourages data exploration and education.
 
 
 ### Installation
@@ -45,14 +45,23 @@ Once you have Python 3.10 or higher, you can proceed with the following installa
 ### Usage
 - **Run the dashboard**:
   ```bash
+  change your directory to the main directory and then type:
     python app.py
   
 - **Open the dashboard**:
+- follow this link (Ctlr + click) or coppy and past to your browser
   ```bash
-    http://localhost:8888/home
+    http://127.0.0.1:8050/dashboard/
 
-### Data Source
-- [Gross Domestic Product 2022 (GDP)](https://www.statistics.gov.rw/publication/1914) and [Consumer Price Index 2022 (CPI)](https://www.statistics.gov.rw/publication/1873)
+### Data Source (NISR Data)
+- [UNEMPLOYMENT IN YOUTH PEOPLE (AGED 0 -25) ], (https://www.statistics.gov.rw/publication/2119)
+
+### Data Source (Non NISR Data)
+International Journal of Scientific and Research Publications, Volume 14, Issue 7, July 2024
+
+Role of Technical, Vocational Education and Training
+Programs on Youth Employability in Rwanda, (https://www.ijsrp.org/research-paper-0724/ijsrp-p15110.pdf)
+
 
 ### Technologies Used
 - A list of technologies, libraries, and frameworks used in the project.
@@ -63,11 +72,14 @@ Once you have Python 3.10 or higher, you can proceed with the following installa
   - [Bootstrap](https://getbootstrap.com/)
 
 ### Team Members
-- [Mahamat Azibert Abdelwahab](https://github.com/abdelwahab01630)
-- [Luel Hagos Beyene](https://github.com/luelhagos)
+- NIYOGUSHIMWA Natanael
+- NDIKUBWIMANA Eric
+- UKWISHATSE Honorine
   
 ### Acknowledgements
 - [National Institute of Statistics Rwanda (NISR)](https://www.statistics.gov.rw/)
-- [African Institute for Mathematical Sciences (AIMS)](https://nexteinstein.org/)
+- RP Musanze College (https://www.iprcmusanze.rp.ac.rw/)
+- Labour Force Survey Annual Report 2023 (https://www.statistics.gov.rw/publication/2119)
+- International Journal of Scientific and Research Publications (https://www.statistics.gov.rw/publication/2119)
 
 
