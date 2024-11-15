@@ -2,7 +2,7 @@
 ## [National Institute of Statistics Rwanda Hackathon 2024 Edition] (https://www.statistics.gov.rw/about-us/hackathon-2024-edition)
 ![Dashboard Overview] (https://github.com/ndikubwimana12/Byteconvas/tree/main)
 
-## A LINK TO PROJECT DASHBOARD (eric12.pythonanywhere.com)
+## [A LINK TO PROJECT DASHBOARD] (eric12.pythonanywhere.com)
 
 
 ## Home Page Image
