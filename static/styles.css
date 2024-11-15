@@ -1,0 +1,35 @@
+/* styles.css */
+
+body {
+    background-color: #f5f7fa;
+}
+
+
+h3, h2 {
+    color: #04056e;
+}
+
+
+.summary-statistics-container {
+    padding: 20px;
+}
+
+.custom-shadow {
+    box-shadow: 10px 10px 15px 10px rgba(0, 0, 0, 0.7); /* Customize shadow properties */
+    
+}
+
+
+/* Custom styling for tabs */
+.custom-tab {
+    background-color: #074f96;
+    color: #ffffff;
+}
+
+/* Styling for the active tab */
+.custom-tab.active {
+    background-color: #09917a; /* Change to your preferred active color */
+    color: white;
+    border-radius: 5px;
+}
+
