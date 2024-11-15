@@ -1,7 +1,11 @@
 # Hackathon Project: YOUTH UNEMPLOYMENT AGED 0-25 YEARS AND DATA SCIENCE SOLUTIONS (Statistical Dashboard)
 ## [National Institute of Statistics Rwanda Hackathon 2024 Edition] (https://www.statistics.gov.rw/about-us/hackathon-2024-edition)
 ![Dashboard Overview] (https://github.com/ndikubwimana12/Byteconvas/tree/main)
-### Team Name: (Byteconvas)
+
+## Home Page Image
+![Home_Page Image](https://github.com/user-attachments/assets/994f4593-897a-4b2a-aefb-480bcb9cf4de)
+
+### Team Name: (Byte Convas)
 ### Institution: RP Musanze College (https://www.iprcmusanze.rp.ac.rw/)
 
 ### Table of Contents
